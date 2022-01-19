@@ -3,37 +3,46 @@
 _DRAFT_
 I am an enthusiastic and agile software developer/engineer in training, looking for opportunities to work on progressive technologies, whilst expanding my technical skillset and problem solving capabilities.
 
-A consistent interest in creative approaches and how things work, led me to graduating in subjects involving 3D graphics at university, work opportunity and even international experience.
-Encountering many technical challenges in this field, encouraged me to want to **write more code!** Consequently, I joined Makers Academy 16 week software bootcamp to become a more complete engineer/developer and take a (hopefully big) step into tech.
+A consistent interest in creative approach and how things work, led me to graduating in subjects involving 3D graphics at university, work opportunity and even international experience.
+Encountering many technical challenges in this field, encouraged me to want to **write more code!** Consequently, I joined Makers Academy bootcamp to become a more complete engineer/developer and take a (hopefully big) step into tech.
 
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech. -->
 
+[Projects](#projects) | [Skills](#skills) | [Education](#education) |
+
 ## PROJECTS
 
+COMING SOON
+<!--
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
 | **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| **Something else worked on** | A webapp to do y. | Ruby              | -->
 
 ## EMPLOYMENT
 
-**Sonoco-Trident** (November 2014 to November 2021)  
+#### **Sonoco-Trident** (November 2014 to November 2021)  
 _Technical CGI Artist_
-javascript ps 
-python for modo + deadline
+More complicated production work, assistant to artists, supervisor of department technology and developing workflow improvements
 
-_Previous Role_
+-	Developed scripts to bundle files and queue for rendering (Python)
+- Prototyped Automation for Packshots (**Python** - modo/Deadline **Javascript** - Photoshop)
+- Deployed render farm for off loading processing and maintained servers involved.
+
+#### _Previous Role_
 _CGI Artist_
-
+Production worker creating images, assets and short films using/creating 3D Models, packaging artworks for use on digital platforms.
 <!-- - Any experience, including roles and responsibilities and results achived in bullet point format. -->
 
-**Dav-It GmbH** (March 2013 to September 2013)
+#### **Dav-It GmbH** (March 2013 to September 2013)
 _3D Internship_
+Internship before returning to complete my bachelors degree, after studying at Reutlingen University as part of Erasmus scholarship.
 
 <!-- - Any experience relevent to software development -->
 
 ## SKILLS
-DRAFT
+COMING SOON
+_Currently ideas from previous work but perhaps should apply to Makers projects_
 
 <!-- Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
@@ -48,13 +57,13 @@ DRAFT
 -What was the result? -->
 
 
-#### This Skill
+#### Problem Solving
 DRAFT
 <!-- - Experience
 - Achievements
 - Evidence (STAR) -->
 
-#### Another Skill
+#### Adaptable Learner
 
 DRAFT
 
@@ -69,6 +78,10 @@ DRAFT
 
 #### Makers Academy (December 2021 to Current)
 DRAFT
+Intensive Software Development Bootcamp preparing skills in:
+
+- TDD RSpec
+- Ruby
 <!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -80,22 +93,33 @@ DRAFT
 #### Sheffield Hallam University (September 2009 to September 2015)
 
 **MA Animation & Special Effects**
-Graduated with Merit
+
+- Graduated with Merit
 
 **BSc Interactive Media with Animation**
-Graduated with 1st Class Honours
+
+- Graduated with 1st Class Honours
+
+- _Modules of interest:_ Mathematics for Graphics, Graphics Programming (OpenGL), 3D Games Prototyping(Playstation 3), Interaction and Scripting for Graphics Apps, Systems Organisations Objects and Data, Internetworking, German A1+
+
+- _Erasmus Scholarship_ studying Media and Communications Informatics for 6 months at Reutlingen University (Germany), followed by placement work as part of sandwich programme.
 
 <!-- - Subject, any specialisms
 - Grade
 - Other cool stuff -->
 
-#### Other qualifcations
+#### Other qualifications
 
 GCE A Levels: Engineering, Physics, Maths, Computing
+
 11 GCSE's including English & Maths
 
-<!-- ToDELETE - That in some arguable way make you a better software developer or well-rounded person -->
+<!--  - That in some arguable way make you a better software developer or well-rounded person -->
 
 ## INTERESTS
+
+Sport - Like to watch and have a go at any sport! Played in many football teams, ran for charity and even winter sports.
+<!-- IMPROVE PHRASING Well-being & Self improvement - Have become more aware of concentrating on how I'm feeling as a regular computer user. -->
+<!-- Gaming - It's always advancing which I love and is a great way to channel my competitive streak. -->
 
 <!-- Any cool stuff that makes you a super part of a software development team -->
