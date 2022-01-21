@@ -8,7 +8,7 @@ Encountering many technical challenges in this field, encouraged me to want to *
 
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech. -->
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) |
+[Projects](#projects) | [Employment](#skills) | [Skills](#skills) | [Education](#education) | [Interests](#interests)
 
 ## PROJECTS
 
@@ -21,8 +21,9 @@ COMING SOON
 
 ## EMPLOYMENT
 
-#### **Sonoco-Trident** (November 2014 to November 2021)  
+### **Sonoco-Trident** (November 2014 to November 2021)  
 _Technical CGI Artist_
+
 More complicated production work, assistant to artists, supervisor of department technology and developing workflow improvements
 
 -	Developed scripts to bundle files and queue for rendering (Python)
@@ -31,12 +32,14 @@ More complicated production work, assistant to artists, supervisor of department
 
 #### _Previous Role_
 _CGI Artist_
+
 Production worker creating images, assets and short films using/creating 3D Models, packaging artworks for use on digital platforms.
 <!-- - Any experience, including roles and responsibilities and results achived in bullet point format. -->
 
-#### **Dav-It GmbH** (March 2013 to September 2013)
+### **Dav-It GmbH** (March 2013 to September 2013)
 _3D Internship_
-Internship before returning to complete my bachelors degree, after studying at Reutlingen University as part of Erasmus scholarship.
+
+Internship after studying at Reutlingen University (Germany) as part of Erasmus scholarship. Achieved as part of my sandwich BSc degree.
 
 <!-- - Any experience relevent to software development -->
 
@@ -57,13 +60,21 @@ _Currently ideas from previous work but perhaps should apply to Makers projects_
 -What was the result? -->
 
 
-#### Problem Solving
+#### Analytical & Efficient
 DRAFT
+Whilst employed in a production environment, there were numerous aspects of the pipeline that could be optimised. Often there were bottlenecks in areas such as rendering/processing and repetitive worker tasks.
+After analysing this I demonstrated areas that could be improved. With backing I setup a renderfarm and began to learn python to simplify the workflow and interface for the artists working with it.
+The result was saving lot of production hours and generated an ambition to continue to code - experiencing how useful programming could be.
+
 <!-- - Experience
 - Achievements
 - Evidence (STAR) -->
 
 #### Adaptable Learner
+Transferring between many projects in my career and studies, has given me exposure to many software applications. 
+To complete projects with often niche requirements I would have to
+learn software quickly to achieve the desired outcome.
+An example of this would be creating fluid simulations for 3D animation requiring software for simulating, importing geometry, scene construction and post-production individually.
 
 DRAFT
 
@@ -76,12 +87,13 @@ DRAFT
 
 ## EDUCATION
 
-#### Makers Academy (December 2021 to Current)
+### Makers Academy (December 2021 to Current)
 DRAFT
 Intensive Software Development Bootcamp preparing skills in:
 
 - TDD RSpec
 - Ruby
+- Pair-Programming
 <!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
@@ -90,7 +102,7 @@ Intensive Software Development Bootcamp preparing skills in:
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine -->
 
-#### Sheffield Hallam University (September 2009 to September 2015)
+### Sheffield Hallam University (September 2009 to September 2015)
 
 **MA Animation & Special Effects**
 
@@ -118,8 +130,10 @@ GCE A Levels: Engineering, Physics, Maths, Computing
 
 ## INTERESTS
 
-Sport - Like to watch and have a go at any sport! Played in many football teams, ran for charity and even winter sports.
-<!-- IMPROVE PHRASING Well-being & Self improvement - Have become more aware of concentrating on how I'm feeling as a regular computer user. -->
-<!-- Gaming - It's always advancing which I love and is a great way to channel my competitive streak. -->
+- Sport - Like to watch and have a go at any sport! Played in many football teams, ran for charity and even winter sports.
+
+- Well-being - Keeping healthy is important for me as a computer user. Recently been trying the Headspace app.
+
+- Gaming - With an interest in visuals, I enjoy seeing the tech improve and is a great way to channel my competitive streak.
 
 <!-- Any cool stuff that makes you a super part of a software development team -->
