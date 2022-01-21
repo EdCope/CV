@@ -30,8 +30,7 @@ More complicated production work, assistant to artists, supervisor of department
 - Prototyped Automation for Packshots (**Python** - modo/Deadline **Javascript** - Photoshop)
 - Deployed render farm for off loading processing and maintained servers involved.
 
-#### _Previous Role_
-_CGI Artist_
+_CGI Artist - Previous Role_
 
 Production worker creating images, assets and short films using/creating 3D Models, packaging artworks for use on digital platforms.
 <!-- - Any experience, including roles and responsibilities and results achived in bullet point format. -->
@@ -39,7 +38,7 @@ Production worker creating images, assets and short films using/creating 3D Mode
 ### **Dav-It GmbH** (March 2013 to September 2013)
 _3D Internship_
 
-Internship after studying at Reutlingen University (Germany) as part of Erasmus scholarship. Achieved as part of my sandwich BSc degree.
+Internship after studying at Reutlingen University (Germany) as part of **Erasmus scholarship**. Achieved as part of my sandwich BSc degree.
 
 <!-- - Any experience relevent to software development -->
 
@@ -89,7 +88,7 @@ DRAFT
 
 ### Makers Academy (December 2021 to Current)
 DRAFT
-Intensive Software Development Bootcamp preparing skills in:
+Intensive Software Development Bootcamp preparing development skills in:
 
 - TDD RSpec
 - Ruby
