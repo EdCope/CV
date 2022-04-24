@@ -85,12 +85,14 @@ DRAFT
 ## EDUCATION
 
 ### Makers Academy (December 2021 to Current)
-DRAFT
-Intensive Software Development Bootcamp preparing development skills in:
+Intensive software engineering Bootcamp preparing a Full-Stack development skillset.
 
-- TDD RSpec
-- Ruby
-- Pair-Programming
+-	Gained confidence in multiple languages and frameworks used in web development.
+-	Frequent group work and pair programming encouraged communication and teamwork to achieve results. 
+-	Utilised Test-Driven Development as a foundation for our process.
+-	Developed an understanding of how to learn and research in this field and also techniques to manage wellbeing doing so.
+-	Learnt object-orientated design principles.
+
 <!-- - Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
 - e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
 - you might also mention aspects some other skills/knowledge listed below: 
