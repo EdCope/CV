@@ -1,10 +1,9 @@
 ## Ed Cope
 
-_DRAFT_
-I am an enthusiastic and agile software developer/engineer in training, looking for opportunities to work on progressive technologies, whilst expanding my technical skillset and problem solving capabilities.
+I am an enthusiastic and adaptable software engineer in training, looking for opportunities to work on progressive technologies, whilst expanding my technical skillset and problem solving capabilities.
 
 A consistent interest in creative approach and how things work, led me to graduating in subjects involving 3D graphics at university, work opportunity and even international experience.
-Encountering many technical challenges in this field, encouraged me to want to **write more code!** Consequently, I joined Makers Academy bootcamp to become a more complete engineer/developer and take a (hopefully big) step into tech.
+Encountering many technical challenges in this field, encouraged me to want to **write more code!** Consequently, I joined [Makers Academy](https://www.makers.tech/hire/) bootcamp to become a more complete engineer and take a (hopefully big) step into tech.
 
 <!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech. -->
 
