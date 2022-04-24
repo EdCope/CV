@@ -12,12 +12,11 @@ Encountering many technical challenges in this field, encouraged me to want to *
 
 ## PROJECTS
 
-COMING SOON
-<!--
 | Name                         | Description       | Tech/tools        |
 | ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              | -->
+| [**PantryPal**](https://github.com/EdCope/pantrypal) | A recipe finding app designed to help with deciding what to eat based on the contents of your pantry. Group project where we challenged ourselves to learn React. | Node.js, MongoDB, Express, React, Bootstrap, Heroku, Jest, Cypress |
+| [**Acebook**](https://github.com/nelsonclaire/acebook-jest-in-time) | Building a Facebook style social network using a Node.js backend for the first time departing from Ruby and Sinatra. | Node.js, MongoDB, Express, Handlebars, Heroku, Jest, Cypress |
+| [**MakersBnB**](https://github.com/EdCope/makersbnb) | First Makers group project to implement an AirBnB with an MVC design. | Ruby, Sinatra, PostgreSQL, Bulma, RSpec, Capybara |
 
 ## EMPLOYMENT
 
