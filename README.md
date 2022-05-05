@@ -5,8 +5,6 @@ I am an enthusiastic and adaptable software engineer in training, looking for op
 A consistent interest in creative approach and how things work, led me to graduating in subjects involving 3D graphics at university, work opportunity and even international experience.
 Encountering many technical challenges in this field, encouraged me to want to **write more code!** Consequently, I joined [Makers Academy](https://www.makers.tech/hire/) bootcamp to become a more complete engineer and take a (hopefully big) step into tech.
 
-<!-- A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech. -->
-
 [Projects](#projects) | [Employment](#skills) | [Skills](#skills) | [Education](#education) | [Interests](#interests)
 
 ## PROJECTS
@@ -31,18 +29,13 @@ More complicated production work, assistant to artists, supervisor of department
 _CGI Artist - Previous Role_
 
 Production worker creating images, assets and short films using/creating 3D Models, packaging artworks for use on digital platforms.
-<!-- - Any experience, including roles and responsibilities and results achived in bullet point format. -->
 
 ### **Dav-It GmbH** (March 2013 to September 2013)
 _3D Internship_
 
 Internship after studying at Reutlingen University (Germany) as part of **Erasmus scholarship**. Achieved as part of my sandwich BSc degree.
 
-<!-- - Any experience relevent to software development -->
-
 ## SKILLS
-COMING SOON
-_Currently ideas from previous work but perhaps should apply to Makers projects_
 
 <!-- Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 (Using a STAR example Paragraph) Consider the questions below.
@@ -58,7 +51,6 @@ _Currently ideas from previous work but perhaps should apply to Makers projects_
 
 
 #### Analytical & Efficient
-DRAFT
 Whilst employed in a production environment, there were numerous aspects of the pipeline that could be optimised. Often there were bottlenecks in areas such as rendering/processing and repetitive worker tasks.
 After analysing this I demonstrated areas that could be improved. With backing I setup a renderfarm and began to learn python to simplify the workflow and interface for the artists working with it.
 The result was saving lot of production hours and generated an ambition to continue to code - experiencing how useful programming could be.
@@ -73,7 +65,8 @@ To complete projects with often niche requirements I would have to
 learn software quickly to achieve the desired outcome.
 An example of this would be creating fluid simulations for 3D animation requiring software for simulating, importing geometry, scene construction and post-production individually.
 
-DRAFT
+#### Team Player
+Regularly I have worked in teams to breakdown complex projects with a large scope or a short deadline. This was tested a lot during my training at Makers. We completed multiple group projects within a week or 2. As our teams were full of students, it was sometimes challenging to know how comfortable all members would be with a tech stack or programming concept. The way we worked around this was to make sure we scheduled multiple check-ins every day to allow people to discuss what they felt they needed to learn and if they were struggling. As a result we could reorganise what people were working on increasing the feeling of contribution and ultimately produce a more complete project.
 
 <!-- Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 
@@ -115,17 +108,11 @@ Intensive software engineering Bootcamp preparing a Full-Stack development skill
 
 - _Erasmus Scholarship_ studying Media and Communications Informatics for 6 months at Reutlingen University (Germany), followed by placement work as part of sandwich programme.
 
-<!-- - Subject, any specialisms
-- Grade
-- Other cool stuff -->
-
 #### Other qualifications
 
 GCE A Levels: Engineering, Physics, Maths, Computing
 
 11 GCSE's including English & Maths
-
-<!--  - That in some arguable way make you a better software developer or well-rounded person -->
 
 ## INTERESTS
 
@@ -134,5 +121,3 @@ GCE A Levels: Engineering, Physics, Maths, Computing
 - Well-being - Keeping healthy is important for me as a computer user. Recently been trying the Headspace app.
 
 - Gaming - With an interest in visuals, I enjoy seeing the tech improve and is a great way to channel my competitive streak.
-
-<!-- Any cool stuff that makes you a super part of a software development team -->
