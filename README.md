@@ -49,14 +49,13 @@ Internship after studying at Reutlingen University (Germany) as part of **Erasmu
 
 -What was the result? -->
 
-
 #### Analytical & Efficient
 Whilst employed in a production environment, there were numerous aspects of the pipeline that could be optimised. Often there were bottlenecks in areas such as rendering/processing and repetitive worker tasks.
 After analysing this I demonstrated areas that could be improved. With backing I setup a renderfarm and began to learn python to simplify the workflow and interface for the artists working with it.
 The result was saving lot of production hours and generated an ambition to continue to code - experiencing how useful programming could be.
 
-<!-- #### Organised & Methodical
-Producing content in the 3D graphics often required more than just a creative and technical skillset. -->
+#### Organised & Methodical
+Producing content in 3D graphics often required more than just a creative and technical skillset. Directly working with clients to clarify the desired outcomes and timeframes gave me the responsibility to plan and manage my time. A project that was a challenge required me to work with both the client and a film production team. The design needed to be both adaptable for unspecified future versions but also reuse elements to minimise the need to reschedule shots to be refilmed and maintain content delivery. The reusable nature of the project was very profitable for the company and doing this I became good at breaking down and prioritizing tasks and coordinating with different people.
 
 #### Team Player
 Regularly I have worked in teams to breakdown complex projects with a large scope or a short deadline. This was tested a lot during my training at Makers. We completed multiple group projects within a week or 2. As our teams were full of students, it was sometimes challenging to know how comfortable all members would be with a tech stack or programming concept. The way we worked around this was to make sure we scheduled multiple check-ins every day to allow people to discuss what they felt they needed to learn and if they were struggling. As a result we could reorganise what people were working on increasing the feeling of contribution and ultimately produce a more complete project.
