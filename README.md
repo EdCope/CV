@@ -55,18 +55,20 @@ Whilst employed in a production environment, there were numerous aspects of the 
 After analysing this I demonstrated areas that could be improved. With backing I setup a renderfarm and began to learn python to simplify the workflow and interface for the artists working with it.
 The result was saving lot of production hours and generated an ambition to continue to code - experiencing how useful programming could be.
 
-<!-- - Experience
-- Achievements
-- Evidence (STAR) -->
+<!-- #### Organised & Methodical
+Producing content in the 3D graphics often required more than just a creative and technical skillset. -->
+
+#### Team Player
+Regularly I have worked in teams to breakdown complex projects with a large scope or a short deadline. This was tested a lot during my training at Makers. We completed multiple group projects within a week or 2. As our teams were full of students, it was sometimes challenging to know how comfortable all members would be with a tech stack or programming concept. The way we worked around this was to make sure we scheduled multiple check-ins every day to allow people to discuss what they felt they needed to learn and if they were struggling. As a result we could reorganise what people were working on increasing the feeling of contribution and ultimately produce a more complete project.
 
 #### Adaptable Learner
 Transferring between many projects in my career and studies, has given me exposure to many software applications. 
 To complete projects with often niche requirements I would have to
 learn software quickly to achieve the desired outcome.
-An example of this would be creating fluid simulations for 3D animation requiring software for simulating, importing geometry, scene construction and post-production individually.
+An example of this would be creating fluid simulations for 3D animation requiring software for simulating, importing geometry, scene construction and post-production individually. Dealing with a multitude of requirements and potential solutions resulted in an ability to deduce and explore software outside of my comfort zone and identify the most effective option for a task.
 
-#### Team Player
-Regularly I have worked in teams to breakdown complex projects with a large scope or a short deadline. This was tested a lot during my training at Makers. We completed multiple group projects within a week or 2. As our teams were full of students, it was sometimes challenging to know how comfortable all members would be with a tech stack or programming concept. The way we worked around this was to make sure we scheduled multiple check-ins every day to allow people to discuss what they felt they needed to learn and if they were struggling. As a result we could reorganise what people were working on increasing the feeling of contribution and ultimately produce a more complete project.
+<!-- h conci>
+
 
 <!-- Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 
